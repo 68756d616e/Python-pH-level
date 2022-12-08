@@ -2,7 +2,7 @@
 
 import random
 
-print("Please inform me of the PH number from 1 to 14")
+print("Please inform me of the PH number from 0 to 14")
 ph = int(input("What is the number of the PH level? : "))
 
 # ph_acidic = 6
